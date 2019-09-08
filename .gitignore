@@ -5,3 +5,5 @@
 *.pem
 *.zip
 *.tsv
+*.pkl
+Kaggle_Toxic_Comment_Classification_Challenge/
